@@ -1,0 +1,54 @@
+Q1.Write a Java Program to print sum of two numbers	Easy			
+Q2.Write a Java Program to print difference of two numbers	Easy			
+Q3.Write a Java Program to print product of two numbers	Easy			
+Q4.Write a Java Program to print Quoficient of two numbers	Easy			
+Q5.Write a Java Program to print remainder of two numbers	Easy			
+Q6.Write a Java Program to Swap two numbers using third variable	Easy			
+Q7.Write a Java Program to Swap of two numbers without using third variable	Medium			
+Q8.Java Program to print the last digit of given number N	Easy			
+Q9.Java Program to print the all digits Except last digit of given number N	Easy			
+Q10.Write a Java Program to print the sum of the first and last digit of a 3-digit number.	Easy			
+Q11.Write a Java Program to print the middle digit of a 3-digit number.	Medium			
+Q12.Write a Java Program to print the absolute value of a given number.	Easy			
+Q13. Write a Java Program to print the square of a given number	Easy			
+Q14. Write a Java Program to print the cube of a given number	Easy			
+Q15. Write a Java Program to calculate the average of three numbers	Easy			
+Q16.Write a Java Program to check whether two numbers are equal True if equal else False.	Easy			
+Q17.Write a Java Program to check if a number is power of 2 using bitwise AND.	Medium			
+Q18.Write a Java Program to print whether a number is positive or negative.	Easy			
+Q19.Write a Java Program to find the greatest of three numbers.	Easy			
+Q20.Write a Java Program to print pass/fail result based on marks.	Easy			
+				
+				
+Q1.Write a Java Program to find area of Rectangle	Easy			
+Q2.Write a Java Program to find area of Square	Easy			
+Q3.Write a Java Program to find area of Triangle	Easy			
+Q4.Write a Java Program to find area of Javaircle	Easy			
+Q5.Write a Java Program to find the distance between two points	Easy			
+Q6.Write a Java Program to calculate Fahrenheit to Javaelsius	Medium			
+Q7.Write a Java Program to calculate Javaelsius to Fahrenheit	Medium			
+Q8.Write a Java Program to find Perimeter of a Square	Easy			
+Q9.Write a Java Program to find Perimeter of a Rectangle	Easy			
+Q10.Write a Java Program to find Perimeter of a Triangle	Easy			
+Q11.Write a Java Program to find Javaircumference of a Javaircle	Easy			
+Q12.Write a Java Program to find Surface Area, Volume, and Perimeter of a Javaube	Easy			
+Q13.Write a Java Program to find Surface Area and Volume of a Javauboid	Easy			
+Q14.Write a Java Program to find Surface Area and Volume of a Sphere	Easy			
+Q15.Write a Java Program to find Surface Area and Volume of a Javaylinder	Easy			
+				
+Detailed Scenario / Description	Sample Input	Sample Output		
+A shop offers festival discounts. The customer enters the original price and discount percentage. The program must calculate the discount amount and the final price payable after applying the discount.	Original Price: 1000Discount: 10	Discount Amount: 100.0Final Price: 900.0		
+A student measures experiment time in minutes but needs the time in seconds. The program should convert minutes into seconds.	Minutes: 5	Seconds: 300		
+Three friends eat at a restaurant and get a single bill. They want to split the total bill equally. The program calculates how much each friend must pay.	Total Bill: 1500	Each Friend Pays: 500		
+A person drives at a constant speed. Given the speed (km/hr) and time (hr), the program must calculate the distance travelled using: distance = speed × time.	Speed: 60Time: 2	Distance: 120 km		
+A fitness trainer tracks running distances in meters. Athletes give distance in kilometers, so the program converts km → meters.	KM: 3	Meters: 3000		
+A computer networks student wants to convert bytes into bits. Since 1 byte = 8 bits, the program multiplies accordingly.	Bytes: 4	Bits: 32		
+A teacher distributes candies equally among students. The program finds how many candies each student gets and how many remain undistributed.	Candies: 50Students: 6	Each Gets: 8Remaining: 2		
+A bakery produces a fixed number of cakes every hour. Given cakes per hour and total hours, the program calculates total cakes made.	Cakes/Hour: 10Hours: 5	Total Cakes: 50		
+A person deposits money in the bank. Using the formula SI = (P × R × T) / 100, the program computes simple interest.	P: 5000R: 5T: 2	Simple Interest: 500.0		
+A company calculates employee salary using: Basic + HRA + Allowance. The program must compute the total salary.	Basic: 20000HRA: 5000Allowance: 3000	Total Salary: 28000		
+A shopkeeper sells an item at a profit. Given cost price and profit, calculate the selling price using: SP = CP + Profit.	CP: 500Profit: 100	Selling Price: 600		
+A product is sold at a loss. Given selling price and loss amount, the program calculates the cost price using: CP = SP + Loss.	SP: 400Loss: 50	Cost Price: 450		
+A fruit shop has an offer: Buy 3 mangoes and get 1 free. Based on the mango price and total mangoes purchased, compute total mangoes received and amount to pay.	Mango Price: 20Buy: 10	Total Mangoes: 13Amount: 200		
+A stationery shop offers: Buy 5 pens, pay only for 3. Given price per pen and pens bought, the program calculates how many pens need to be paid for and total cost.	Pen Price: 10Buy: 12	Pay For: 8Total Amount: 80		
+An ATM dispenses money in ₹2000, ₹500, and ₹100 notes. For a given amount, calculate the number of each note required (highest denomination first).	Amount: 3700	2000 Notes: 1500 Notes: 3100 Notes: 2		
